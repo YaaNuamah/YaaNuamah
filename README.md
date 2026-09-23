@@ -1,6 +1,5 @@
 <p align="center">
-  <strong>APIs, technical product, and cyber threat intelligence</strong><br>
-  Building practical evidence in product, API, and AI security.
+  Technical product, API, and cybersecurity work grounded in engineering and threat intelligence.
 </p>
 
 <p align="center">
@@ -17,40 +16,28 @@
 
 ## About
 
-I work across APIs, technical products, and cybersecurity. At Global Fishing Watch, I help developers, researchers, and partner organizations use API and data products successfully, translating technical problems and user feedback into clearer documentation, better workflows, and product improvements.
+I am an APIs Technical Success Manager at Global Fishing Watch. I help developers, researchers, and partner organizations work successfully with APIs and data products, and I turn recurring technical problems and user feedback into better documentation, workflows, and product decisions.
 
-Alongside this work, I contribute as a Cyber Security Analyst at DoubleOsec, where I investigate and enrich indicators using public threat-intelligence sources, map activity to MITRE ATT&CK, and document findings for analyst workflows.
+I also contribute to threat intelligence analysis at DoubleOsec, investigating and enriching indicators with public intelligence sources, mapping activity to MITRE ATT&CK, and documenting findings for analyst workflows.
 
-My background in software engineering and product management, together with an MSc in Cybersecurity and Threat Intelligence, gives my work a consistent through-line:
+Before this, I worked in software engineering and product management. I hold an MSc in Cybersecurity and Threat Intelligence from the University of Guelph.
 
-> software -> APIs -> products -> security -> threat intelligence -> AI security
-
-## Selected Work
+## Projects
 
 ### [AI Agent Security Lab](https://github.com/YaaNuamah/ai-agent-security-lab)
 
-An implementation-focused research project for a safe, hands-on cyber AI agent lab. It covers agent architecture, prompt injection, unsafe tool use, excessive permissions, data leakage, guardrails, observability, and human approval controls.
+A research and implementation project for a safe, hands-on cyber AI agent lab. It explores prompt injection, unsafe tool use, excessive permissions, data leakage, guardrails, observability, and human approval controls.
 
-**Current evidence:** project scoping, research log, findings register, implementation report, safety boundaries, and prototype roadmap.
+Currently developing:
 
-## Building Next
+- A public IOC enrichment pipeline using safe historical and synthetic indicators.
+- An API security lab covering authentication, authorization, error handling, rate limits, logging, remediation, and retesting.
+- Product security case studies focused on realistic user and API workflows.
+- A reproducible LLM and smishing security experiment based on sanitized data.
 
-- **Public IOC Enrichment Pipeline** - Enrich and score safe, historical indicators using public APIs, document source confidence, and produce an analyst-ready report.
-- **API Security Lab** - Test authentication, authorization, error handling, rate limits, and logging against an intentionally vulnerable API, then validate the fixes.
-- **Product Security Case Studies** - Threat models, abuse cases, security requirements, and launch recommendations for realistic product workflows.
-- **LLM and Smishing Security Research** - A sanitized, reproducible experiment extending my graduate research into LLM-assisted smishing analysis and AI security.
+## Tools
 
-## Methods And Tools
-
-**Threat intelligence:** IOC enrichment, OSINT, VirusTotal, MalwareBazaar, Shodan, MITRE ATT&CK  
+**Threat intelligence:** VirusTotal, MalwareBazaar, Shodan, MITRE ATT&CK, OSINT  
 **API and product:** REST APIs, Postman, developer documentation, usage analysis, product discovery  
 **Security:** OWASP API Security Top 10, OWASP ZAP, Burp Suite, Wireshark  
 **Engineering:** Python, Java, C#, Git, GitHub Actions
-
-## Current Direction
-
-I am interested in work where technical product judgment and security analysis reinforce each other: technical product management, API and developer-platform products, threat intelligence, product security, security automation, and emerging AI security.
-
----
-
-The projects here use public, historical, synthetic, or intentionally vulnerable data. They do not reproduce confidential employer or client work.
