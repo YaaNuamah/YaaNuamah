@@ -1,104 +1,56 @@
-# Yaa Nuamah Kusi-Fordjour
+<p align="center">
+  <strong>APIs, technical product, and cyber threat intelligence</strong><br>
+  Building practical evidence in product, API, and AI security.
+</p>
 
-**Product Security | API Security | Application Security | Threat Intelligence**
+<p align="center">
+  <a href="https://www.linkedin.com/in/yaanuamah/">LinkedIn</a> &nbsp;|&nbsp;
+  <a href="mailto:yaa_fordjour@hotmail.com">Email</a>
+</p>
 
-I connect product thinking, secure software delivery, and cybersecurity investigation. My work sits at the intersection of API ecosystems, secure product workflows, threat intelligence, and developer-friendly security guidance.
+<p align="center">
+  <img src="https://img.shields.io/badge/Threat%20Intelligence-8B1E3F?style=flat" alt="Threat Intelligence" />
+  <img src="https://img.shields.io/badge/API%20Security-1565C0?style=flat" alt="API Security" />
+  <img src="https://img.shields.io/badge/Product%20Security-00695C?style=flat" alt="Product Security" />
+  <img src="https://img.shields.io/badge/AI%20Security-5E35B1?style=flat" alt="AI Security" />
+</p>
 
-[![Product Security](https://img.shields.io/badge/Product%20Security-0F766E?style=for-the-badge&logo=securityscorecard&logoColor=white)](#security-portfolio)
-[![API Security](https://img.shields.io/badge/API%20Security-1D4ED8?style=for-the-badge&logo=postman&logoColor=white)](#experience-signals)
-[![AppSec](https://img.shields.io/badge/AppSec-7C3AED?style=for-the-badge&logo=owasp&logoColor=white)](#current-learning-labs)
-[![Threat Intelligence](https://img.shields.io/badge/Threat%20Intelligence-B91C1C?style=for-the-badge&logo=virustotal&logoColor=white)](#tools-and-domains)
-[![Python](https://img.shields.io/badge/Python-111827?style=for-the-badge&logo=python&logoColor=white)](#tools-and-domains)
-[![MITRE ATT&CK](https://img.shields.io/badge/MITRE%20ATT%26CK-374151?style=for-the-badge)](#tools-and-domains)
+## About
 
-## What I Am Building Toward
+I work across APIs, technical products, and cybersecurity. At Global Fishing Watch, I help developers, researchers, and partner organizations use API and data products successfully, translating technical problems and user feedback into clearer documentation, better workflows, and product improvements.
 
-I am building a public security portfolio for roles in:
+Alongside this work, I contribute as a Cyber Security Analyst at DoubleOsec, where I investigate and enrich indicators using public threat-intelligence sources, map activity to MITRE ATT&CK, and document findings for analyst workflows.
 
-- Product Security
-- API Security
-- Application Security
-- Cybersecurity Analysis
-- Cloud Security
-- Security Engineering
+My background in software engineering and product management, together with an MSc in Cybersecurity and Threat Intelligence, gives my work a consistent through-line:
 
-My strongest lane is **Product Security with hands-on AppSec and threat intelligence depth**: finding risk, explaining impact, helping teams prioritize fixes, and documenting security decisions clearly.
+> software -> APIs -> products -> security -> threat intelligence -> AI security
 
-## Recruiter Snapshot
+## Selected Work
 
-| Signal | Evidence |
-| --- | --- |
-| Product security judgment | Product and technical success background across API platforms, financial workflows, education technology, and secure delivery |
-| API security experience | Investigated authentication failures and abnormal API traffic patterns supporting secure access for 500+ global partners |
-| Security documentation | Improved API troubleshooting, validation procedures, and technical documentation for 1,300+ API partners |
-| AppSec foundation | OWASP API Security Top 10, Burp Suite, OWASP ZAP, Postman, secure code review, vulnerability remediation |
-| Threat intelligence practice | Volunteer threat intelligence work analyzing domains, IPs, hashes, malware indicators, OSINT sources, and MITRE ATT&CK mappings |
-| Engineering depth | Backend services, role-based access control, Java, Python, C#, shell scripting, APIs, and database/API optimization |
+### [AI Agent Security Lab](https://github.com/YaaNuamah/ai-agent-security-lab)
 
-## Security Portfolio
+An implementation-focused research project for a safe, hands-on cyber AI agent lab. It covers agent architecture, prompt injection, unsafe tool use, excessive permissions, data leakage, guardrails, observability, and human approval controls.
 
-Links activate as each public repo is created and published.
+**Current evidence:** project scoping, research log, findings register, implementation report, safety boundaries, and prototype roadmap.
 
-| Portfolio area | What it demonstrates | Status |
-| --- | --- | --- |
-| [`product-security-case-studies`](https://github.com/YaaNuamah/product-security-case-studies) | Threat modeling, abuse cases, secure acceptance criteria, risk registers | Local draft ready - publishing next |
-| [`appsec-labs`](https://github.com/YaaNuamah/appsec-labs) | OWASP labs, API testing, secure code review, vulnerability reproduction and fixes | Local draft ready - publishing next |
-| [`cloud-security-labs`](https://github.com/YaaNuamah/cloud-security-labs) | IAM, least privilege, cloud misconfiguration review, hardening checklists | Coming soon |
-| [`detection-response-labs`](https://github.com/YaaNuamah/detection-response-labs) | IOC triage, suspicious activity review, incident timelines, response recommendations | Coming soon |
-| [`secure-dev-portfolio`](https://github.com/YaaNuamah/secure-dev-portfolio) | Security automation, secure software patterns, CI/CD guardrails | Coming soon |
+## Building Next
 
-## Experience Signals
+- **Public IOC Enrichment Pipeline** - Enrich and score safe, historical indicators using public APIs, document source confidence, and produce an analyst-ready report.
+- **API Security Lab** - Test authentication, authorization, error handling, rate limits, and logging against an intentionally vulnerable API, then validate the fixes.
+- **Product Security Case Studies** - Threat models, abuse cases, security requirements, and launch recommendations for realistic product workflows.
+- **LLM and Smishing Security Research** - A sanitized, reproducible experiment extending my graduate research into LLM-assisted smishing analysis and AI security.
 
-**Global Fishing Watch - APIs / Technical Success**
+## Methods And Tools
 
-- Investigated authentication failures and abnormal API traffic patterns to help engineering teams resolve integration incidents and maintain secure access for 500+ global partners.
-- Improved API reliability and security workflows through documentation, control validation, and troubleshooting improvements for 1,300+ API partners.
-- Coordinated incident investigations with product and engineering teams, strengthening API platform resilience for enterprise data users.
-- Validated integration security requirements and organized audit-ready evidence supporting vulnerability remediation.
+**Threat intelligence:** IOC enrichment, OSINT, VirusTotal, MalwareBazaar, Shodan, MITRE ATT&CK  
+**API and product:** REST APIs, Postman, developer documentation, usage analysis, product discovery  
+**Security:** OWASP API Security Top 10, OWASP ZAP, Burp Suite, Wireshark  
+**Engineering:** Python, Java, C#, Git, GitHub Actions
 
-**OOSec - Volunteer Cybersecurity Analyst / Threat Intelligence Volunteer, Oct 2025 - Present**
+## Current Direction
 
-- Analyze domains, IPs, hashes, malware indicators, and suspicious infrastructure using OSINT and malware intelligence sources.
-- Map indicators of compromise to MITRE ATT&CK techniques and document findings for SOC-style investigation workflows.
-- Practice threat triage with tools such as VirusTotal, MalwareBazaar, Shodan, and security research databases.
+I am interested in work where technical product judgment and security analysis reinforce each other: technical product management, API and developer-platform products, threat intelligence, product security, security automation, and emerging AI security.
 
-**Product and Engineering Background**
+---
 
-- Led secure digital product workflows across financial services and education technology teams.
-- Built backend services and role-based access control rules for enterprise trading workflows.
-- Researched SCADA smart grid security risks and proposed mitigation strategies.
-- Built and evaluated projects in malware detection, privacy/security analysis, API security, and secure Android messaging.
-
-## Current Learning Labs
-
-| Lab | Focus | Recruiter signal |
-| --- | --- | --- |
-| Broken Access Control | Object-level authorization, IDOR risk, secure retesting | AppSec fundamentals and secure code reasoning |
-| Login and Account Recovery Threat Model | Abuse cases, trust boundaries, risk prioritization | Product security and secure design judgment |
-| API Security Review | OWASP API Security Top 10, Postman, OWASP ZAP | API testing and remediation communication |
-| Suspicious Login Triage | Logs, IOC enrichment, timeline building | Analyst workflow and incident response thinking |
-
-## Tools And Domains
-
-| Domain | Tools and skills |
-| --- | --- |
-| AppSec and API Security | OWASP API Top 10, Burp Suite, OWASP ZAP, Postman, REST APIs, secure code review |
-| Threat Intelligence | MITRE ATT&CK, VirusTotal, MalwareBazaar, Shodan, URLScan, IOC investigation |
-| Malware and Reverse Engineering | Ghidra, IDA Pro, REMnux, YARA, JADX, MobSF, malware feature extraction |
-| Cloud and Infrastructure | AWS, GCP, IAM, Linux, Bash, PowerShell, security documentation |
-| Engineering | Python, Java, C#, shell scripting, backend services, RBAC, API architecture |
-| Product Delivery | SSDLC, JIRA, Notion, Confluence, stakeholder coordination, technical documentation |
-
-## Leadership And Community
-
-- Lead, PyLadies Ghana: mentoring 400+ young women through Python resources, coding challenges, cybersecurity workshops, and meetups.
-- MSc Cybersecurity and Threat Intelligence, University of Guelph.
-- Bruce Power Scholarship in Cybersecurity 2025.
-- Women in Cybersecurity Security Training Scholarship Cohort.
-- Women in Security and Privacy / Black Hat USA scholarship recipient.
-
-## Contact
-
-- GitHub: [YaaNuamah](https://github.com/YaaNuamah)
-- LinkedIn: Add LinkedIn URL
-- Email: [yaa_fordjour@hotmail.com](mailto:yaa_fordjour@hotmail.com)
+The projects here use public, historical, synthetic, or intentionally vulnerable data. They do not reproduce confidential employer or client work.
